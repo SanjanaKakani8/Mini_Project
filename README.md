@@ -1,4 +1,4 @@
-# Mini_Project
+# MeloRhythm- Web based Music Player Application
 MeloRhythm is a web-based music player developed using HTML, CSS, JavaScript, and Flask, featuring playlists, favorites, mini player, fullscreen player, dark mode, and music visualization.
 🎵 MeloRhythm - Web-Based Music Player
 
